@@ -1,0 +1,11 @@
+{
+  "Model": "LL_DDPG",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4912.054890029709,
+  "SumTotalCost": 4912.054890029709,
+  "SumTotalEmissions": 20645.07582812208,
+  "MeanTotalProfit": -982.4109780059418,
+  "MeanTotalCost": 982.4109780059418,
+  "MeanTotalEmissions": 4129.015165624416
+}

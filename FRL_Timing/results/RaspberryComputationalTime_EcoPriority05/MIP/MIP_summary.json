@@ -1,0 +1,11 @@
+{
+  "Model": "MIP",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4252.709572609694,
+  "SumTotalCost": 4252.709572609694,
+  "SumTotalEmissions": 16423.683859678487,
+  "MeanTotalProfit": -850.5419145219388,
+  "MeanTotalCost": 850.5419145219388,
+  "MeanTotalEmissions": 3284.7367719356976
+}

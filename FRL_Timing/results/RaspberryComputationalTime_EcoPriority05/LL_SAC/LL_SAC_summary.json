@@ -1,0 +1,11 @@
+{
+  "Model": "LL_SAC",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4549.3779335161325,
+  "SumTotalCost": 4549.3779335161325,
+  "SumTotalEmissions": 17845.754060242452,
+  "MeanTotalProfit": -909.8755867032265,
+  "MeanTotalCost": 909.8755867032265,
+  "MeanTotalEmissions": 3569.1508120484905
+}

@@ -1,0 +1,11 @@
+{
+  "Model": "LL_TD3",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4483.414195753494,
+  "SumTotalCost": 4483.414195753494,
+  "SumTotalEmissions": 17389.273157916145,
+  "MeanTotalProfit": -896.6828391506988,
+  "MeanTotalCost": 896.6828391506988,
+  "MeanTotalEmissions": 3477.854631583229
+}

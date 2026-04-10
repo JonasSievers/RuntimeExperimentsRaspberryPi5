@@ -1,0 +1,11 @@
+{
+  "Model": "noBess",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -5053.371753799995,
+  "SumTotalCost": 5053.371753799995,
+  "SumTotalEmissions": 21272.587417615086,
+  "MeanTotalProfit": -1010.6743507599989,
+  "MeanTotalCost": 1010.6743507599989,
+  "MeanTotalEmissions": 4254.517483523017
+}

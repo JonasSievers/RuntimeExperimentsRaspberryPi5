@@ -1,0 +1,11 @@
+{
+  "Model": "MPC",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4392.7805329826615,
+  "SumTotalCost": 4392.7805329826615,
+  "SumTotalEmissions": 17126.134241234475,
+  "MeanTotalProfit": -878.5561065965323,
+  "MeanTotalCost": 878.5561065965323,
+  "MeanTotalEmissions": 3425.226848246895
+}

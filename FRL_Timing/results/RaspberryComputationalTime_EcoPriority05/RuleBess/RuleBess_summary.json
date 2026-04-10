@@ -1,0 +1,11 @@
+{
+  "Model": "RuleBess",
+  "NumBuildings": 5,
+  "EcoPriority": 0.5,
+  "SumTotalProfit": -4496.787806039527,
+  "SumTotalCost": 4496.787806039527,
+  "SumTotalEmissions": 18493.241250150495,
+  "MeanTotalProfit": -899.3575612079054,
+  "MeanTotalCost": 899.3575612079054,
+  "MeanTotalEmissions": 3698.648250030099
+}
