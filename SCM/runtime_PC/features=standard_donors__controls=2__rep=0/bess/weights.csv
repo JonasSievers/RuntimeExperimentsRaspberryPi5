@@ -1,0 +1,3 @@
+model,lambda,sum_to_one_constraint,positive_weights_constraint,feature_name,feature_type,donor_name,weight,abs_weight,abs_weight_share,abs_weight_rank
+SCM,0.01,True,False,netconsumption_233,current_donor,netconsumption_233,2.4873215895326846,2.4873215895326846,0.6257974558907636,1
+SCM,0.01,True,False,netconsumption_28,current_donor,netconsumption_28,-1.4873215895326841,1.4873215895326841,0.37420254410923637,2
